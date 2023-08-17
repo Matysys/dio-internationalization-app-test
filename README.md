@@ -1,0 +1,1 @@
+# dio-internationalization-app-test
